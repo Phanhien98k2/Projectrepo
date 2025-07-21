@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8" />
-    <title> 
-        "This is an introduction to README file"
-    </title>
-</head>
-<body>
-    
-</body>
-</html>
+# My Home work
+
+This is a note in the READ ME file for my Week 2 homework.
+
+No further instruction is needed
